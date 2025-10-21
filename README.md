@@ -26,6 +26,14 @@ UnityとC#を使った独創的なUI・複雑な敵AIの開発に興味があり
 
 ---
 
+## 🛠️ **Tech Stack**
+
+<table align="center">
+<tr>
+<td width="50%" align="center" valign="top">
+
+---
+
 ## 🎯 目標
 - UI/UXを強化することを意識
 - UI ToolKitを勉強
