@@ -33,16 +33,26 @@ UnityとC#を使った独創的なUI・複雑な敵AIの開発に興味があり
 <td width="50%" align="center" valign="top">
 
 ### 💻 **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=unity,csharp" width="100" height="100" alt="Unity/C#"/>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=unity" width="80" height="80" alt="Unity"/>
+<img src="https://skillicons.dev/icons?i=csharp" width="80" height="80" alt="C#"/>
+</div>
 
 ### 🔧 **Development Tools**
-<img src="https://skillicons.dev/icons?i=visualstudio,rider,git,github" width="100" height="100" alt="VS/Rider/Git"/>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=visualstudio" width="80" height="80" alt="Visual Studio"/>
+<img src="https://skillicons.dev/icons?i=rider" width="80" height="80" alt="Rider"/>
+<img src="https://skillicons.dev/icons?i=git" width="80" height="80" alt="Git"/>
+<img src="https://skillicons.dev/icons?i=github" width="80" height="80" alt="GitHub"/>
+</div>
 
 </td>
 <td width="50%" align="center" valign="top">
 
 ### 🎨 **Design & Others**
-<img src="https://skillicons.dev/icons?i=figma" width="100" height="100" alt="Figma"/>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=figma" width="80" height="80" alt="Figma"/>
+</div>
 
 </td>
 </tr>
