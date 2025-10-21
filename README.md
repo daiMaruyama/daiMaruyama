@@ -43,7 +43,6 @@ UnityとC#を使った独創的なUI・複雑な敵AIの開発に興味があり
 
 ### 🎨 **Design & Others**
 <img src="https://skillicons.dev/icons?i=figma" width="100" height="100" alt="Figma"/>
-<!-- 必要に応じて追加 -->
 
 </td>
 </tr>
