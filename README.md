@@ -35,6 +35,7 @@ UnityとC#を使った独創的なUI・複雑な敵AIの開発に興味があり
 ### 💻 **Languages & Frameworks**
 <div align="center">
 <img src="https://skillicons.dev/icons?i=unity" width="60" height="60" alt="Unity"/>
+<img src="https://skillicons.dev/icons?i=csharp" width="60" height="60" alt="C#"/>
 </div>
 
 ### 🔧 **Development Tools**
