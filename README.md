@@ -32,26 +32,12 @@ UnityとC#を使った独創的なUI・複雑な敵AIの開発に興味があり
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 💻 **Languages & Frameworks**
 <div align="center">
 <img src="https://skillicons.dev/icons?i=unity" width="60" height="60" alt="Unity"/>
-<img src="https://skillicons.dev/icons?i=csharp" width="60" height="60" alt="C#"/>
-</div>
-
-### 🔧 **Development Tools**
-<div align="center">
 <img src="https://skillicons.dev/icons?i=visualstudio" width="60" height="60" alt="Visual Studio"/>
 <img src="https://skillicons.dev/icons?i=rider" width="60" height="60" alt="Rider"/>
 <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="Git"/>
 <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="GitHub"/>
-</div>
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### 🎨 **Design & Others**
-<div align="center">
-<img src="https://skillicons.dev/icons?i=figma" width="60" height="60" alt="Figma"/>
 </div>
 
 </td>
