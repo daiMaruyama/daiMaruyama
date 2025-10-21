@@ -33,10 +33,6 @@ UnityとC#を使った独創的なUI・複雑な敵AIの開発に興味があり
 ---
 
 ### 🛠️ **Tech Stack**
-/*
-<table align="center">
-<tr>
-<td width="20%" align="center" valign="top">*/
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=unity" width="40" height="40" alt="Unity"/>
@@ -45,7 +41,3 @@ UnityとC#を使った独創的なUI・複雑な敵AIの開発に興味があり
 <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/>
 <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
 </div>
-/*
-</td>
-</tr>
-</table>*/
