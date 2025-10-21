@@ -32,32 +32,24 @@ UnityとC#を使った独創的なUI・複雑な敵AIの開発に興味があり
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 📱  **Mobile Development**
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+### 💻 **Languages & Frameworks**
+<img src="https://skillicons.dev/icons?i=unity,csharp" width="50" height="50" alt="Unity/C#"/>
 
-### ☁️  **Backend as a Service (BaaS)**
-<img src="https://skillicons.dev/icons?i=supabase,firebase" />
-
-### 🔧  **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+### 🔧 **Development Tools**
+<img src="https://skillicons.dev/icons?i=visualstudio,rider,git,github" width="50" height="50" alt="VS/Rider/Git"/>
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### 🗄️  **Database**
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
-
-### 🎨  **Design**
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
-
-### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
+### 🎨 **Design & Others**
+<img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="Figma"/>
+<!-- 必要に応じて追加 -->
 
 </td>
 </tr>
 </table>
 
----
+
 
 ## 🎯 目標
 - UI/UXを強化することを意識
