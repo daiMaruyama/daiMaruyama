@@ -30,7 +30,7 @@ UnityとC#を使った独創的なUI・複雑な敵AIの開発に興味があり
 
 <table align="center">
 <tr>
-<td width="50%" align="center" valign="top">
+<td width="20%" align="center" valign="top">
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=unity" width="60" height="60" alt="Unity"/>
