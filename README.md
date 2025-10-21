@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 まるやま / Daimaruyama
 
-<!--
-**daiMaruyama/daiMaruyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+数ある選択肢の中から最適なものを選び、日々の成長を積み重ねています。  
+UnityとC#を使った独創的なUI・複雑な敵AIの開発に興味があります。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 技術・ツール
+- **Unity / C#**：約半年
+- **アルゴリズム・ゲーム制作**：短編ゲームから学習用サンプルまで
+- **その他**：UI演出、
+
+---
+
+## 🚀 現在の取り組み
+- **daily's**：日々挑戦する個人制作小規模プロジェクト
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daimaruyama&show_icons=true&count_private=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daimaruyama&layout=compact&theme=radical" height="165"/>
+</p>
+
+---
+
+## 🎯 目標
+- UI/UXを強化することを意識
+- UI ToolKitを勉強
