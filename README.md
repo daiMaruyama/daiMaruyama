@@ -44,4 +44,4 @@ UnityとC#を使った独創的なUI・複雑な敵AIの開発に興味があり
 
 ---
 
-https://daimaruyama.github.io
+https://daiMaruyama.github.io
