@@ -41,3 +41,7 @@ UnityとC#を使った独創的なUI・複雑な敵AIの開発に興味があり
 <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/>
 <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
 </div>
+
+---
+
+https://daimaruyama.github.io/
