@@ -1,3 +1,8 @@
+### 🌐 Portfolio
+[Portfolio](https://daiMaruyama.github.io)
+
+---
+
 ## 👋 About Me
 
 数ある選択肢の中から最適なものを選び、日々の成長を積み重ねています。  
@@ -41,10 +46,5 @@ UnityとC#を使った独創的なUI・複雑な敵AIの開発に興味があり
 <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/>
 <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
 </div>
-
----
-
-### 🌐 Portfolio
-[Portfolio](https://daiMaruyama.github.io)
 
 ---
