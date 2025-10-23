@@ -17,23 +17,12 @@ UnityとC#を使った独創的なUI・複雑な敵AIの開発に興味があり
 
 ---
 
-## 🚀 Projects
-- **Coding**：日々挑戦する個人制作小規模プロジェクト
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daimaruyama&show_icons=true&count_private=true&theme=radical" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daimaruyama&layout=compact&theme=radical" height="165"/>
 </p>
-
----
-
-## 🎯 Target
-- UI/UXを強化することを意識
-- UI ToolKitを勉強
 
 ---
 
