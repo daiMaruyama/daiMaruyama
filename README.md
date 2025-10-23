@@ -32,7 +32,8 @@ UnityとC#を使った独創的なUI・複雑な敵AIの開発に興味があり
 <img src="https://skillicons.dev/icons?i=rider" width="40" height="40" alt="Rider"/>
 <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/>
 <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/>
-<img src="https://skillicons.dev/icons?i=discord,notion" width="40" height="40" alt="Discord / Notion"/>
+<img src="https://skillicons.dev/icons?i=notion" width="40" height="40" alt="Notion"/>
+<img src="https://skillicons.dev/icons?i=discord" width="40" height="40" alt="Discord"/>
 </div>
 
 ---
