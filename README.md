@@ -1,5 +1,5 @@
 ### 🌐 Portfolio
-自作ポートフォリオサイト：[Portfolio](https://daiMaruyama.github.io)
+自作ポートフォリオ：[Portfolio](https://daiMaruyama.github.io)
 
 ---
 
