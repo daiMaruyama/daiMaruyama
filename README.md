@@ -29,9 +29,7 @@
 ### 🛠️ **Tech Stack**
 
 <div align="center">
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-</a>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=unity" width="40" height="40" alt="Unity"/>
 <img src="https://skillicons.dev/icons?i=visualstudio" width="40" height="40" alt="Visual Studio"/>
 <img src="https://skillicons.dev/icons?i=rider" width="40" height="40" alt="Rider"/>
