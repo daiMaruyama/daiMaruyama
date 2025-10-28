@@ -1,19 +1,22 @@
 ### 🌐 Portfolio
-自作ポートフォリオ：[Portfolio](https://daiMaruyama.github.io)
+自作ポートフォリオ：[Portfolio](https://daiMaruyama.github.io) ※整備中
 
 ---
 
 ## 👋 About Me
 
-28卒学生。UnityとC#を用いたUI演出や複雑な敵AIの開発に挑戦し、
-「ユーザー体験の向上」にこだわったゲーム制作を目指しています。
-向上心を生かして日々の学びを積極的に活かし、
-数ある選択肢の中から最善のものを選べるエンジニアになりたいです。
+28卒学生。  
+UnityとC#を用いた **UI演出** や **複雑な敵AI** の開発に挑戦しています。  
+「ユーザー体験の向上」にこだわったゲーム制作を目指し、  
+向上心を生かして日々の学びを積極的に活かしています。  
+
+将来的には、**数ある選択肢の中から最善のものを選べるエンジニア** になりたいです。
 
 ---
 
 ## 🛠 Skills & Tools
-- **Unity / C#**：約半年
+- **Unity / C#**：約半年  
+- **ツール**：Visual Studio / Rider / Git / GitHub  
 
 ---
 
@@ -26,7 +29,7 @@
 
 ---
 
-### 🛠️ **Tech Stack**
+### 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/>
