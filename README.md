@@ -23,7 +23,7 @@ UnityとC#を用いた **UI演出** や **複雑な敵AI** の開発に挑戦し
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daimaruyama&show_icons=true&count_private=true&theme=dracula" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=daimaruyama&show_icons=true&count_private=true&theme=merko" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daimaruyama&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
