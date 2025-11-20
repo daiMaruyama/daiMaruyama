@@ -20,9 +20,12 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" height="45" alt="C#"/>
   <img src="https://skillicons.dev/icons?i=unity" width="45" height="45" alt="Unity"/>
-  <img src="https://skillicons.dev/icons?i=visualstudio,rider" width="45" height="45" alt="IDEs"/>
-  <img src="https://skillicons.dev/icons?i=git,github" width="45" height="45" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=notion,discord" width="45" height="45" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=visualstudio" width="45" height="45" alt="Visual Studio"/>
+  <img src="https://skillicons.dev/icons?i=rider" width="45" height="45" alt="Rider"/>
+  <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=notion" width="45" height="45" alt="Notion"/>
+  <img src="https://skillicons.dev/icons?i=discord" width="45" height="45" alt="Discord"/>
 </div>
 
 <br>
