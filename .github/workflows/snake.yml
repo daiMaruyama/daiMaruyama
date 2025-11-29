@@ -1,0 +1,30 @@
+name: Generate Snake
+
+on:
+  # 毎日深夜0時に自動実行
+  schedule:
+    - cron: "0 0 * * *" 
+  # 手動でも実行できるようにする
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          # あなたのGitHubユーザー名
+          github_user_name: daiMaruyama
+          # 出力する画像のファイル名
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to the output branch
+        uses: crazy-max/gh-action-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
