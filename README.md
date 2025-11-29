@@ -57,7 +57,9 @@
 <br><br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=daiMaruyama&theme=dracula&hide_border=true" alt="GitHub Streak" />
+
 <br>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=daiMaruyama&theme=dracula&hide_border=true" alt="Top Langs" />
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=daiMaruyama&theme=dracula&hide_border=true" width="495" alt="Top Langs" />
 
 </div>
