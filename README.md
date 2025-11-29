@@ -39,11 +39,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=daiMaruyama&show_icons=true&theme=dracula" height="160" alt="GitHub Stats" />
+  
+  <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daimaruyama&show_icons=true&count_private=true&theme=dracula)
-
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daimaruyama&layout=compact&theme=dracula)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daiMaruyama&layout=compact&theme=dracula" height="160" alt="Top Langs" />
 
 </div>
