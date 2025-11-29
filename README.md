@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hi there, I'm Dai Maruyama 👋
+# Hi there, I'm Daisuke Maruyama 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=ffffff&center=true&vCenter=true&width=435&lines=Unity+Developer+in+the+making;Focusing+on+UX+and+Game+Feel;28+Graduate+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5c6bc0&center=true&vCenter=true&width=435&lines=Unity+Developer+in+the+making;Focusing+on+UX+and+Game+Feel;28+Graduate+Student" alt="Typing SVG" />
 </a>
 
 <a href="https://daiMaruyama.github.io">
@@ -39,6 +39,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daimaruyama&show_icons=true&count_private=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daimaruyama&layout=compact&theme=tokyonight" height="150"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daimaruyama&show_icons=true&count_private=true&theme=dracula)
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daimaruyama&layout=compact&theme=dracula)
+
 </div>
