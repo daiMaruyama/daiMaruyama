@@ -7,7 +7,7 @@
 # Hi there, I'm Daisuke Maruyama 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=5c6bc0&center=true&vCenter=true&width=435&lines=Unity+Developer+in+the+making;Creating+Immersive+Game+Experiences;Focusing+on+UX+and+Game+Feel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=5c6bc0&center=true&vCenter=true&width=600&lines=Unity+Developer+in+the+making;Creating+Immersive+Game+Experiences;Focusing+on+UX+and+Game+Feel" alt="Typing SVG" />
 </a>
 
 <a href="https://daiMaruyama.github.io">
@@ -30,7 +30,9 @@
 
 ## 🚀 About Me
 
-<img align="right" width="350" src="https://github-readme-stats-sigma-five.vercel.app/api?username=daiMaruyama&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Stats" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" width="380" src="https://github-readme-stats-sigma-five.vercel.app/api?username=daiMaruyama&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Stats" />
+</a>
 
 28卒の学生エンジニアです。
 現在は **Unity (C#)** を用いたゲーム開発に没頭しています。
@@ -50,7 +52,7 @@
 
 <div align="center">
 
-<img src="https://github.com/daiMaruyama/daiMaruyama/blob/output/github-contribution-grid-snake.svg" alt="snake behavior" width="100%" />
+<img src="https://raw.githubusercontent.com/daiMaruyama/daiMaruyama/output/github-contribution-grid-snake.svg" alt="snake behavior" width="100%" />
 
 <br><br>
 
