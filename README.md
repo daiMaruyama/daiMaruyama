@@ -24,6 +24,10 @@
 
 ## 🚀 About Me
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" width="320" src="https://github-readme-stats-sigma-five.vercel.app/api?username=daiMaruyama&show_icons=true&theme=dracula&count_private=true" alt="Jstat" />
+</a>
+
 28卒の学生エンジニアです。
 現在は **Unity (C#)** を用いたゲーム開発に没頭しています。
 単に機能を実装するだけでなく、**「ユーザーが心地よいと感じるUX」** を追求することに情熱を持っています。
@@ -34,7 +38,7 @@
 | :--- | :--- |
 | **Design Patterns**, Clean Architecture | **Unity**, Game Mechanics, C# |
 
----
+<br clear="right"> ---
 
 ## 📊 GitHub Stats
 
@@ -44,6 +48,6 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daiMaruyama&theme=dracula&hide_border=true" alt="Top Langs" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=daiMaruyama&theme=dracula&hide_border=true&layout=compact" alt="Top Langs" />
 
 </div>
