@@ -1,9 +1,9 @@
 <div align="center">
 
-# Hi there, I'm Daisuke Maruyama 👋
+# Hi there, I'm Dai Maruyama 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Unity+Developer+in+the+making;Focusing+on+UX+and+Game+Feel;28+Graduate+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=ffffff&center=true&vCenter=true&width=435&lines=Unity+Developer+in+the+making;Focusing+on+UX+and+Game+Feel;28+Graduate+Student" alt="Typing SVG" />
 </a>
 
 <a href="https://daiMaruyama.github.io">
@@ -39,6 +39,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daimaruyama&show_icons=true&count_private=true&theme=radical&bg_color=0d1117&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daimaruyama&layout=compact&theme=radical&bg_color=0d1117&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=daimaruyama&show_icons=true&count_private=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daimaruyama&layout=compact&theme=tokyonight" height="150"/>
 </div>
