@@ -44,6 +44,6 @@
 
 <br>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=daiMaruyama&layout=compact&theme=dracula" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daiMaruyama&theme=dracula&hide_border=true" alt="Top Langs" />
 
 </div>
