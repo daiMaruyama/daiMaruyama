@@ -38,6 +38,12 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daimaruyama&show_icons=true&theme=dracula)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daimaruyama&layout=compact&theme=dracula)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=daiMaruyama&theme=dracula&hide_border=true" alt="GitHub Streak" />
+
+<br>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=daiMaruyama&layout=compact&theme=dracula" alt="Top Langs" />
+
+</div>
