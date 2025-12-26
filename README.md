@@ -34,8 +34,8 @@
   <img align="right" width="380" src="https://github-readme-stats-sigma-five.vercel.app/api?username=daiMaruyama&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Stats" />
 </a>
 
-28卒の学生エンジニアです。
-現在は **Unity (C#)** を用いたゲーム開発に没頭しています。
+私は28卒の学生エンジニアです。
+現在は **Unity (C#)** を用いたゲーム開発に勤しんでいます。
 単に機能を実装するだけでなく、**「ユーザーが心地よいと感じるUX」** を追求することに情熱を持っています。
 
 将来は、**自分の設計思想を持ちつつ、チーム全体の開発効率や品質を底上げできるエンジニア** を目指しています。
