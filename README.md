@@ -5,10 +5,10 @@
 <br>
 
 <a href="https://daimaruyama.github.io/">
-  <img src="assets/portfolio-button.svg" width="340" alt="ポートフォリオを見る" />
+  <img src="https://img.shields.io/badge/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%95%E3%82%A9%E3%83%AA%E3%82%AA-daimaruyama.github.io-e60029?style=for-the-badge&labelColor=111111" width="320" alt="ポートフォリオ daimaruyama.github.io" />
 </a>
 
-<br><br>
+<br>
 
 <sub><b>メイン</b></sub><br>
 <img src="https://skillicons.dev/icons?i=unreal,unity,vscode,visualstudio&theme=dark" height="44" />
@@ -17,8 +17,7 @@
 <img src="https://skillicons.dev/icons?i=cpp,cs,php&theme=dark" height="44" />
 
 <sub><b>ツール</b></sub><br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,mysql&theme=dark" height="44" /><br>
-<sub>Xcode ／ Sequel Ace</sub>
+<img src="https://skillicons.dev/icons?i=git,github,docker,mysql&theme=dark" height="44" />
 
 </div>
 
