@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="64" viewBox="0 0 340 64" role="img" aria-label="ポートフォリオを見る">
+  <polygon points="14,0 340,0 326,64 0,64" fill="#e60029"/>
+  <text x="150" y="40" text-anchor="middle" fill="#ffffff" font-family="'Hiragino Sans','Hiragino Kaku Gothic ProN','Noto Sans JP','Yu Gothic','Meiryo',sans-serif" font-size="21" font-weight="700" letter-spacing="1">ポートフォリオを見る</text>
+  <path d="M278 32 H302 M292 22 L302 32 L292 42" stroke="#ffffff" stroke-width="3.5" fill="none" stroke-linecap="square"/>
+</svg>

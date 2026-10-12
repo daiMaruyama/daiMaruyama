@@ -2,27 +2,23 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 
-<br><br>
-
-# Hi there, I'm Daisuke Maruyama 👋
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=5c6bc0&center=true&vCenter=true&width=600&lines=Unity+Developer+in+the+making;Creating+Immersive+Game+Experiences;Focusing+on+UX+and+Game+Feel" alt="Typing SVG" />
-</a>
-
-<a href="https://daiMaruyama.github.io">
-  <img src="https://img.shields.io/badge/🎨_My_Portfolio-Visit_Website-ff69b4?style=for-the-badge&logo=github" height="40"/>
-</a>
-
 <br>
-<img src="https://komarev.com/ghpvc/?username=daiMaruyama&style=flat-square&color=blueviolet" alt="Profile Views" />
+
+<a href="https://daimaruyama.github.io/">
+  <img src="assets/portfolio-button.svg" width="340" alt="ポートフォリオを見る" />
+</a>
 
 <br><br>
 
-**Main Stack**<br>
-<img src="https://skillicons.dev/icons?i=cs,unity,visualstudio,rider&theme=dark" /><br>
-**Tools**<br>
-<img src="https://skillicons.dev/icons?i=git,github,notion,discord&theme=dark" />
+<sub><b>メイン</b></sub><br>
+<img src="https://skillicons.dev/icons?i=unreal,unity,vscode,visualstudio&theme=dark" height="44" />
+
+<sub><b>言語</b></sub><br>
+<img src="https://skillicons.dev/icons?i=cpp,cs,php&theme=dark" height="44" />
+
+<sub><b>ツール</b></sub><br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,mysql&theme=dark" height="44" /><br>
+<sub>Xcode ／ Sequel Ace</sub>
 
 </div>
 
@@ -30,21 +26,17 @@
 
 ## 🚀 About Me
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="380" src="https://github-readme-stats-sigma-five.vercel.app/api?username=daiMaruyama&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Stats" />
-</a>
-
 私は28卒の学生エンジニアです。
-現在は **Unity,UnrealEngine** を用いたゲーム開発に勤しんでいます。
-単に機能を実装するだけでなく、**「ユーザーが心地よいと感じるUX」** を追求することに情熱を持っています。
+現在は **Unreal Engine・C++** でのチーム制作と、**Unity・C#** での個人制作を中心にゲーム開発をしています。
+2026年5月に始めたモバイルゲーム会社の長期アルバイトでは、運用中タイトルの不具合修正を担当しています。
+新規事業のミニゲームでは、企画から開発までをほぼ一人で担当し、収益目標やターゲットの設定にも関わりました。
 
-将来、**自分の設計思想を持ちつつ、チーム全体の開発効率や品質を底上げできるエンジニア** を目指しています。
+作ったゲームは家族や友人に遊んでもらい、自分では気づけなかった指摘を素直に反映して直しています。
+作る側の視点だけで完結させないことを大事にしています。
 
-| 🌱 Learning | 💬 Ask me about |
-| :--- | :--- |
-| **Design Patterns**, Clean Architecture | **Unity**, Game Mechanics, C# |
-
-<br clear="right">
+目標は、**人を救うゲームを作ること**です。
+辛い時期にゲームに救われた経験があり、今度は自分が誰かの生きがいになるゲームを届けたいと思っています。
+そのために、自分の設計思想という芯を持ちながら、チームで最適解を導けるエンジニアを目指しています。
 
 ---
 
@@ -52,14 +44,13 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/daiMaruyama/daiMaruyama/output/github-contribution-grid-snake.svg" alt="snake behavior" width="100%" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=daiMaruyama&theme=dracula&hide_border=true" alt="GitHub Streak" />
-
-<br>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=daiMaruyama&theme=dracula&hide_border=true" width="495" alt="Top Langs" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/daiMaruyama/daiMaruyama/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/daiMaruyama/daiMaruyama/output/github-contribution-grid-snake.svg" alt="snake behavior" width="100%" />
+</picture>
 
 </div>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=daiMaruyama&style=flat-square&color=blueviolet" alt="Profile Views" />
+</p>
